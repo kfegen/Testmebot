@@ -12,6 +12,6 @@ exports.conf = {
 
 exports.help = {
   name: 'matt',
-  description: 'Try some of his aliases!',
+  description: 'There is no help for Matt. But you can try some of his aliases!',
   usage: 'matt'
 };
